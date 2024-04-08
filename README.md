@@ -19,9 +19,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <br/>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-
 <code><img width="10%" src="https://i.pinimg.com/564x/fe/63/63/fe6363c5220b137f918ccfeadc0ec888.jpg"></code>
-<code><img width="10%" src="https://i.pinimg.com/564x/1e/6b/e9/1e6be929f78b0900fa607c1d1c5df960.jpg"></code>
+<code><img width="10%" src="https://i.pinimg.com/564x/36/9f/e7/369fe719a5e682dc66f03a3b13687f7f.jpg"></code>
 
 
 <br />
