@@ -12,7 +12,7 @@ Welcome to my Github page!
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
 
 <code><img width="10%" src="https://i.pinimg.com/564x/53/19/88/5319885958f89815e5431363f39ff937.jpg"></code>
-<code><img width="10%" src="https://i.pinimg.com/564x/9b/4e/e0/9b4ee057076232fb57c48cf80947f8a7.jpg"></code>
+<code><img width="10%" src="https://i.pinimg.com/564x/8e/f5/af/8ef5af1cacebb410d490cbcad4ea85f3.jpg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
 <br />
