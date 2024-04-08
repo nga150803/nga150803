@@ -5,9 +5,9 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/froldanzafra/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:Fernando.Roldan.Zafra@gmail.com)
 
-Welcome to my Github page! I am Fernando and I am currently finishing my Computer Engineering Master degree at the university of Granada!  
+Welcome to my Github page!
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://scontent.fhan4-3.fna.fbcdn.net/v/t39.30808-6/423778746_1745743265934788_3708726611760870919_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeE36MJPf5mtkjRJswLjprrmJxWcLZNv81AnFZwtk2_zUKma-RGtPPEwHT4HR9bf64qsCu6RaS-D-9vndBEiP8nx&_nc_ohc=19FVzPjyJyQAb4NnKi7&_nc_ht=scontent.fhan4-3.fna&oh=00_AfAvRiCByj_mybk1BWyPwyD5LfO4wFoImkSgq2F5po1PmA&oe=661970D0" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
