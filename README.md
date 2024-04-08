@@ -1,10 +1,14 @@
-### Hi there 👋 
-### My name is Nga!
 
+
+<p align="center">
+  <img width="140" src="https://user-images.githubusercontent.com/6661165/91657958-61b4fd00-eb00-11ea-9def-dc7ef5367e34.png" />
+  <h2 align="center">My name is Nga!👋 </h2>
+  <p align="center">🏆 Welcome to my Github page!</p>
+</p>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/nga150803)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ttnga1508@gmail.com)
 
-Welcome to my Github page!
+
 
 
 #### :computer: Programming languages and tools: 
