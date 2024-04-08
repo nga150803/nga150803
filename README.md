@@ -6,8 +6,6 @@
 
 Welcome to my Github page!
 
-<img align="right" alt="img" src="https://i.pinimg.com/564x/e4/56/94/e4569443714172f2773aea229195685c.jpg" width="50%" height="auto" />
-
 
 #### :computer: Programming languages and tools: 
 <p>
