@@ -10,6 +10,22 @@ Welcome to my Github page!
 <img align="right" alt="img" src="https://scontent.fhan4-3.fna.fbcdn.net/v/t39.30808-6/423778746_1745743265934788_3708726611760870919_n.jpg?stp=cp6_dst-jpg&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeE36MJPf5mtkjRJswLjprrmJxWcLZNv81AnFZwtk2_zUKma-RGtPPEwHT4HR9bf64qsCu6RaS-D-9vndBEiP8nx&_nc_ohc=19FVzPjyJyQAb4NnKi7&_nc_ht=scontent.fhan4-3.fna&oh=00_AfAvRiCByj_mybk1BWyPwyD5LfO4wFoImkSgq2F5po1PmA&oe=661970D0" width="50%" height="auto" />
 
 
+#### :computer: Programming languages and tools: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=FernandoRoldan93&show_icons=true&hide_border=true" />
+
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
 #### 🌱 Things I am currently working on: 
 - Finish my Computer Engineering Master Degree  
 - Taking online courses about Data Science and Machine Learning 
